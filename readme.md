@@ -3,4 +3,4 @@
 
 Toto je cvičný repozitář pro Git tutorial.</br>
 Tutorial byl vytvořen pomo https://www.w3schools.com/git.
-emj se svete
+mej se svete
